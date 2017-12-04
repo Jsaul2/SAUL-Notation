@@ -1,1 +1,1 @@
-* [Hobbies] ( SAUL-Notation/Hobbies.md )
+* [Hobbies](SAUL-Notation/Hobbies.md)
